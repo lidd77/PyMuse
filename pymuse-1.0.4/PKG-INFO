@@ -1,0 +1,18 @@
+Metadata-Version: 1.1
+Name: pymuse
+Version: 1.0.4
+Summary: pymuse-A wrapped  pymuse class
+Home-page: UNKNOWN
+Author: lidongdong
+Author-email: UNKNOWN
+License: LICENSE
+Description-Content-Type: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Classifier: Development Status :: 2 - Pre-Alpha
+Classifier: Environment :: Console
+Classifier: Intended Audience :: End Users/Desktop
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python
+Classifier: Topic :: Text Processing

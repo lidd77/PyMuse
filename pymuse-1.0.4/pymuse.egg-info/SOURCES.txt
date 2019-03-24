@@ -1,0 +1,7 @@
+pymuse.py
+setup.py
+pymuse.egg-info/PKG-INFO
+pymuse.egg-info/SOURCES.txt
+pymuse.egg-info/dependency_links.txt
+pymuse.egg-info/requires.txt
+pymuse.egg-info/top_level.txt
